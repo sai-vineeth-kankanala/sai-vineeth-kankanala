@@ -6,7 +6,7 @@
 ![Backend Developer](https://img.shields.io/badge/Backend_Developer-green?style=for-the-badge&logo=server&logoColor=white)
 ![LLM Systems](https://img.shields.io/badge/LLM_Systems-purple?style=for-the-badge&logo=openai&logoColor=white)
 
-📍 Dallas, Texas, USA  •  [LinkedIn](https://www.linkedin.com/in/sai-vineethkankanala)  •  ksvvineeth@gmail.com
+📍 Dallas, Texas, USA  •  [LinkedIn](https://www.linkedin.com/in/saivineethkankanala/)  •  ksvvineeth@gmail.com
 
 </div>
 
