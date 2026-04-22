@@ -6,7 +6,7 @@
 ![Backend Developer](https://img.shields.io/badge/Backend_Developer-green?style=for-the-badge&logo=server&logoColor=white)
 ![LLM Systems](https://img.shields.io/badge/LLM_Systems-purple?style=for-the-badge&logo=openai&logoColor=white)
 
-📍 Dallas, Texas, USA  •  [LinkedIn](https://www.linkedin.com/in/sai-vineethkankanala)  •  saivineethkankanala@gmail.com
+📍 Dallas, Texas, USA  •  [LinkedIn](https://www.linkedin.com/in/sai-vineethkankanala)  •  ksvvineeth@gmail.com
 
 </div>
 
@@ -110,6 +110,6 @@ An interactive, graph-theory-based routing engine that helps EV drivers find opt
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-vineethkankanala)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saivineethkankanala@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksvvineeth@gmail.com)
 
 </div>
