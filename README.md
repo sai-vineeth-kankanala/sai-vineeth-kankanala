@@ -1,109 +1,115 @@
-# Sai Vineeth Kankanala
+<div align="center">
 
-**AI Engineer | Backend Developer | LLM Systems**
+# 👨‍💻 Sai Vineeth Kankanala
 
-Dallas, Texas, USA • [LinkedIn](https://www.linkedin.com/in/sai-vineethkankanala) • saivineethkankanala@gmail.com
+![AI Engineer](https://img.shields.io/badge/AI_Engineer-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![Backend Developer](https://img.shields.io/badge/Backend_Developer-green?style=for-the-badge&logo=server&logoColor=white)
+![LLM Systems](https://img.shields.io/badge/LLM_Systems-purple?style=for-the-badge&logo=openai&logoColor=white)
 
----
+📍 Dallas, Texas, USA  •  [LinkedIn](https://www.linkedin.com/in/sai-vineethkankanala)  •  saivineethkankanala@gmail.com
 
-I design and build production-focused AI systems, LLM applications, and backend services that solve real business problems end to end. My work spans retrieval-augmented generation (RAG), machine learning pipelines, and scalable backend architectures, with a focus on measurable impact and reliable, well-engineered solutions.
-
----
-
-## Core Skills
-
-**Languages:** Python, Java, SQL, JavaScript, C++
-
-**AI & Machine Learning:** LLMs, RAG Systems, Machine Learning Pipelines, Model Evaluation (F1-score, precision, recall), Feature Engineering
-
-**Backend & APIs:** FastAPI, Flask, Spring Boot, Node.js, Express, REST APIs, Authentication & Authorization
-
-**Data & Storage:** PostgreSQL, MySQL, SQL Analytics, Data Pipelines
-
-**Cloud & DevOps:** AWS, Docker, Git, CI/CD, Containerization
+</div>
 
 ---
 
-## Featured Projects
+<div align="center">
 
-### AI Micronutrient Deficiency Detection App
-AI-powered application that analyzes user health inputs to flag potential micronutrient deficiencies and recommend actions.
+> *Building intelligent systems that turn data into decisions — one algorithm at a time.*
 
-- **Tech Stack:** Python, FastAPI, Machine Learning models, SQL, Docker, AWS
-- **Highlights:**
-  - Built end-to-end pipeline: data preprocessing, model training, and REST API deployment
-  - Optimized inference for real-time performance (sub-second latency)
-  - Implemented structured logging and performance monitoring
+</div>
 
 ---
 
-### RAG Document Intelligence System
-Retrieval-augmented generation system enabling natural language queries over unstructured documents with cited, grounded responses.
+## 🛠️ Tech Arsenal
 
-- **Tech Stack:** Python, LLMs, RAG pipeline, Vector Database, FastAPI, Docker
-- **Highlights:**
-  - Designed chunking and embedding pipeline optimized for long-form documents
-  - Reduced hallucinations by constraining responses to retrieved context
-  - Built REST APIs for ingestion, querying, and system health checks
-  - Integrated source citations for transparency and traceability
-
----
-
-### Fraud Detection ML Pipeline
-End-to-end machine learning pipeline for detecting fraudulent transactions and money laundering patterns.
-
-- **Tech Stack:** Python, Pandas, NumPy, scikit-learn, SQL
-- **Highlights:**
-  - Processed 50K+ transactions for feature engineering and model training
-  - Evaluated multiple models using F1-score, precision, and recall to balance false positives vs false negatives
-  - Designed modular pipeline (data cleaning → feature engineering → training → evaluation)
-  - Structured for easy iteration and future model updates
-
-**Repository:** [money-laundering-detection](https://github.com/sai-vineeth-kankanala/money-laundering-detection)
+| Category | Stack |
+|----------|-------|
+| **Languages** | Python, Java, SQL, JavaScript, C++ |
+| **AI & ML** | LLMs, RAG, ML Pipelines, Model Evaluation, Feature Engineering |
+| **Backend** | FastAPI, Flask, Spring Boot, Node.js, Express, REST APIs |
+| **Data** | PostgreSQL, MySQL, SQL Analytics, Data Pipelines |
+| **Cloud** | AWS, Docker, Git, CI/CD, Containerization |
 
 ---
 
-### EV Charging Optimization System
-Optimization system recommending efficient EV charging strategies under cost, capacity, and demand constraints.
+## 🚀 Featured Projects
 
-- **Tech Stack:** Python, Optimization libraries, SQL, FastAPI
-- **Highlights:**
-  - Formulated charging problem using mixed-integer programming
-  - Exposed optimizer through REST API for dashboard and mobile integration
-  - Designed for scalability across multiple locations and tariff structures
-  - Extensible architecture for adding new constraints and objectives
+### 🧠 AI Micronutrient Deficiency Detection App
+> Python • FastAPI • ML Models • SQL • Docker • AWS
 
----
+An AI-powered health application that analyzes user inputs to detect micronutrient deficiencies and recommend actionable solutions.
 
-## Other Engineering Projects
+**Impact:** End-to-end ML pipeline with sub-second inference latency and structured performance monitoring.
 
-**Chef Hiring System** – Platform connecting restaurants with chefs.
-RESTful APIs, role-based authentication, Dockerized backend, AWS deployment.
-
-**Music Recommendation System** – Backend service delivering personalized recommendations.
-Python, Flask, MySQL, secure authentication, persistence layer.
+**[→ View on GitHub](https://github.com/sai-vineeth-kankanala)**
 
 ---
 
-## What I'm Working On
+### 📚 RAG Document Intelligence System
+> Python • LLMs • RAG Pipeline • Vector DB • FastAPI • Docker
 
-- Building scalable AI applications with production-grade architectures
-- Developing LLM-powered systems with RAG for document understanding
-- Designing backend microservices for high-concurrency environments
-- Optimizing ML model inference for real-time performance
+A retrieval-augmented generation system that enables natural language queries over unstructured documents with cited, grounded responses.
+
+**Impact:** Reduced hallucinations through context-constrained responses with full source traceability.
+
+**[→ View on GitHub](https://github.com/sai-vineeth-kankanala)**
 
 ---
 
-## What I'm Learning
+### 🕵️ Fraud Detection ML Pipeline
+> Python • Pandas/NumPy • ML Models • SQL • FastAPI • Docker
+
+An end-to-end machine learning pipeline for detecting fraudulent transactions and money laundering patterns across 50K+ transactions.
+
+**Impact:** High-precision fraud detection with real-time scoring and automated alerting.
+
+**[→ View on GitHub](https://github.com/sai-vineeth-kankanala/money-laundering-detection)**
+
+---
+
+### 🔌 EVRoute Optimizer
+> JavaScript • Leaflet.js • Dijkstra/A* • Graph Theory • OpenStreetMap
+
+An interactive, graph-theory-based routing engine that helps EV drivers find optimal charging stations using Dijkstra's and A* Search algorithms with real-time congestion modeling.
+
+**Impact:** Browser-based pathfinding with live congestion simulation and topology visualization.
+
+**[→ View on GitHub](https://github.com/sai-vineeth-kankanala/Optimizing-EV-Charging-Station-Usage-Using-Graph-Theory)**
+
+---
+
+## 💼 Other Projects
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **Chef Hiring System** | REST APIs, Auth, Docker, AWS | Platform connecting restaurants with chefs |
+| **Music Recommendation System** | Python, Flask, MySQL | Personalized music backend with secure auth |
+
+---
+
+## 📌 Currently Working On
+
+- 🏗️ Building scalable AI applications with production-grade architectures
+- 🧠 Developing LLM-powered RAG systems for document understanding
+- 🔌 Designing backend microservices for high-concurrency environments
+- ⚡ Optimizing ML model inference for real-time performance
+
+---
+
+## 📖 Currently Learning
 
 - System Design & Distributed Systems
-- Advanced LLM Architectures and Fine-tuning Techniques
+- Advanced LLM Architectures & Fine-tuning
 - Data Engineering Fundamentals
 - Production ML Deployment Patterns
 
 ---
 
-## Connect
+<div align="center">
 
-- **LinkedIn:** [linkedin.com/in/sai-vineethkankanala](https://www.linkedin.com/in/sai-vineethkankanala)
-- **Email:** saivineethkankanala@gmail.com
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-vineethkankanala)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saivineethkankanala@gmail.com)
+
+</div>
