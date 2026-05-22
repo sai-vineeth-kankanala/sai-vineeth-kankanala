@@ -36,9 +36,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sai-vineeth-kankanala&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=sai-vineeth-kankanala&theme=github-compact&hide_border=true&area=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-vineeth-kankanala&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-vineeth-kankanala&layout=compact&theme=dark&hide_border=true&langs_count=6)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sai-vineeth-kankanala&theme=github-dark-blue&hide_border=true)
 
@@ -52,5 +52,3 @@
 > Python • FastAPI • ML Models • SQL • Docker • AWS
 
 An AI-powered health application that analyzes user inputs to detect micronutrient deficiencies and recommend actionable solutions.
-
-**Impact:** End-to-end ML pipeline with sub-second inference latency and structured performance monitoring.
