@@ -2,11 +2,11 @@
 
 # 👨‍💻 Sai Vineeth Kankanala
 
-![AI Engineer](https://img.shields.io/badge/AI_Engineer-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
-![Backend Developer](https://img.shields.io/badge/Backend_Developer-green?style=for-the-badge&logo=server&logoColor=white)
-![LLM Systems](https://img.shields.io/badge/LLM_Systems-purple?style=for-the-badge&logo=openai&logoColor=white)
+[![AI Engineer](https://img.shields.io/badge/AI_Engineer-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white)](https://github.com/sai-vineeth-kankanala)
+[![Backend Developer](https://img.shields.io/badge/Backend_Developer-green?style=for-the-badge&logo=server&logoColor=white)](https://github.com/sai-vineeth-kankanala)
+[![LLM Systems](https://img.shields.io/badge/LLM_Systems-purple?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/sai-vineeth-kankanala)
 
-📍 Dallas, Texas, USA  •  [LinkedIn](https://www.linkedin.com/in/saivineethkankanala/)  •  ksvvineeth@gmail.com
+📍 Dallas, Texas, USA • [LinkedIn](https://www.linkedin.com/in/saivineethkankanala/) • ksvvineeth@gmail.com
 
 </div>
 
@@ -22,13 +22,27 @@
 
 ## 🛠️ Tech Arsenal
 
-| Category | Stack |
-|----------|-------|
-| **Languages** | Python, Java, SQL, JavaScript, C++ |
-| **AI & ML** | LLMs, RAG, ML Pipelines, Model Evaluation, Feature Engineering |
-| **Backend** | FastAPI, Flask, Spring Boot, Node.js, Express, REST APIs |
-| **Data** | PostgreSQL, MySQL, SQL Analytics, Data Pipelines |
-| **Cloud** | AWS, Docker, Git, CI/CD, Containerization |
+| Category      | Stack                                                          |
+| ------------- | -------------------------------------------------------------- |
+| **Languages** | Python, Java, SQL, JavaScript, C++                             |
+| **AI & ML**   | LLMs, RAG, ML Pipelines, Model Evaluation, Feature Engineering |
+| **Backend**   | FastAPI, Flask, Spring Boot, Node.js, Express, REST APIs       |
+| **Data**      | PostgreSQL, MySQL, SQL Analytics, Data Pipelines               |
+| **Cloud**     | AWS, Docker, Git, CI/CD, Containerization                      |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sai-vineeth-kankanala&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-vineeth-kankanala&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sai-vineeth-kankanala&theme=github-dark-blue&hide_border=true)
+
+</div>
 
 ---
 
@@ -61,7 +75,7 @@ A retrieval-augmented generation system that enables natural language queries ov
 
 An end-to-end machine learning pipeline for detecting fraudulent transactions and money laundering patterns across 50K+ transactions.
 
-**Impact:** High-precision fraud detection with real-time scoring and automated alerting.
+**Impact:** 92% precision, 87% recall, 0.94 ROC-AUC. Real-time scoring with automated alerting.
 
 **[→ View on GitHub](https://github.com/sai-vineeth-kankanala/money-laundering-detection)**
 
@@ -80,36 +94,33 @@ An interactive, graph-theory-based routing engine that helps EV drivers find opt
 
 ## 💼 Other Projects
 
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| **Chef Hiring System** | REST APIs, Auth, Docker, AWS | Platform connecting restaurants with chefs |
-| **Music Recommendation System** | Python, Flask, MySQL | Personalized music backend with secure auth |
+| Project                         | Tech Stack                   | Description                                 |
+| ------------------------------- | ---------------------------- | ------------------------------------------- |
+| **Chef Hiring System**          | REST APIs, Auth, Docker, AWS | Platform connecting restaurants with chefs  |
+| **Music Recommendation System** | Python, Flask, MySQL         | Personalized music backend with secure auth |
+| **Ecommerce Analytics**         | SQL, Python, JS              | Data pipelines with 40% performance gain    |
 
 ---
 
 ## 📌 Currently Working On
 
-- 🏗️ Building scalable AI applications with production-grade architectures
-- 🧠 Developing LLM-powered RAG systems for document understanding
-- 🔌 Designing backend microservices for high-concurrency environments
-- ⚡ Optimizing ML model inference for real-time performance
+- 🏗️ Building a production RAG system for document Q&A with citation tracking (FastAPI + ChromaDB + OpenAI)
+- 🧠 Developing LLM-powered pipelines for document understanding and structured extraction
+- 🔌 Designing backend microservices for high-concurrency ML inference environments
+- ⚡ Optimizing ML model serving for real-time performance at scale
 
 ---
 
 ## 📖 Currently Learning
 
-- System Design & Distributed Systems
-- Advanced LLM Architectures & Fine-tuning
-- Data Engineering Fundamentals
-- Production ML Deployment Patterns
+- Advanced LLM Architectures & Fine-tuning (LoRA/QLoRA)
+- System Design & Distributed Systems for ML
+- Data Engineering with Apache Spark & Airflow
+- Production ML Deployment Patterns (BentoML, Ray Serve)
 
 ---
-
-<div align="center">
 
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saivineethkankanala/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksvvineeth@gmail.com)
-
-</div>
