@@ -36,9 +36,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sai-vineeth-kankanala&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sai-vineeth-kankanala&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-vineeth-kankanala&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-vineeth-kankanala&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sai-vineeth-kankanala&theme=github-dark-blue&hide_border=true)
 
@@ -54,73 +54,3 @@
 An AI-powered health application that analyzes user inputs to detect micronutrient deficiencies and recommend actionable solutions.
 
 **Impact:** End-to-end ML pipeline with sub-second inference latency and structured performance monitoring.
-
-**[→ View on GitHub](https://github.com/sai-vineeth-kankanala)**
-
----
-
-### 📚 RAG Document Intelligence System
-> Python • LLMs • RAG Pipeline • Vector DB • FastAPI • Docker
-
-A retrieval-augmented generation system that enables natural language queries over unstructured documents with cited, grounded responses.
-
-**Impact:** Reduced hallucinations through context-constrained responses with full source traceability.
-
-**[→ View on GitHub](https://github.com/sai-vineeth-kankanala)**
-
----
-
-### 🕵️ Fraud Detection ML Pipeline
-> Python • Pandas/NumPy • ML Models • SQL • FastAPI • Docker
-
-An end-to-end machine learning pipeline for detecting fraudulent transactions and money laundering patterns across 50K+ transactions.
-
-**Impact:** 92% precision, 87% recall, 0.94 ROC-AUC. Real-time scoring with automated alerting.
-
-**[→ View on GitHub](https://github.com/sai-vineeth-kankanala/money-laundering-detection)**
-
----
-
-### 🔌 EVRoute Optimizer
-> JavaScript • Leaflet.js • Dijkstra/A* • Graph Theory • OpenStreetMap
-
-An interactive, graph-theory-based routing engine that helps EV drivers find optimal charging stations using Dijkstra's and A* Search algorithms with real-time congestion modeling.
-
-**Impact:** Browser-based pathfinding with live congestion simulation and topology visualization.
-
-**[→ View on GitHub](https://github.com/sai-vineeth-kankanala/Optimizing-EV-Charging-Station-Usage-Using-Graph-Theory)**
-
----
-
-## 💼 Other Projects
-
-| Project                         | Tech Stack                   | Description                                 |
-| ------------------------------- | ---------------------------- | ------------------------------------------- |
-| **Chef Hiring System**          | REST APIs, Auth, Docker, AWS | Platform connecting restaurants with chefs  |
-| **Music Recommendation System** | Python, Flask, MySQL         | Personalized music backend with secure auth |
-| **Ecommerce Analytics**         | SQL, Python, JS              | Data pipelines with 40% performance gain    |
-
----
-
-## 📌 Currently Working On
-
-- 🏗️ Building a production RAG system for document Q&A with citation tracking (FastAPI + ChromaDB + OpenAI)
-- 🧠 Developing LLM-powered pipelines for document understanding and structured extraction
-- 🔌 Designing backend microservices for high-concurrency ML inference environments
-- ⚡ Optimizing ML model serving for real-time performance at scale
-
----
-
-## 📖 Currently Learning
-
-- Advanced LLM Architectures & Fine-tuning (LoRA/QLoRA)
-- System Design & Distributed Systems for ML
-- Data Engineering with Apache Spark & Airflow
-- Production ML Deployment Patterns (BentoML, Ray Serve)
-
----
-
-## 📬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saivineethkankanala/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksvvineeth@gmail.com)
