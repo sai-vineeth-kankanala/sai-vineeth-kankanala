@@ -1,124 +1,68 @@
-<div align="center">
+# 📊 Sai Vineeth Kankanala — Data Analyst
 
-# 👨‍💻 Sai Vineeth Kankanala
+📍 Dallas, Texas, USA | [LinkedIn](https://linkedin.com/in/saivineethkankanala) | ksvvineeth@gmail.com
 
-[![AI Engineer](https://img.shields.io/badge/AI_Engineer-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white)](https://github.com/sai-vineeth-kankanala)
-[![Backend Developer](https://img.shields.io/badge/Backend_Developer-green?style=for-the-badge&logo=server&logoColor=white)](https://github.com/sai-vineeth-kankanala)
-[![LLM Systems](https://img.shields.io/badge/LLM_Systems-purple?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/sai-vineeth-kankanala)
+> **Turning raw data into decisions — through SQL, Python, and visual storytelling.**
 
-📍 Dallas, Texas, USA • [LinkedIn](https://www.linkedin.com/in/saivineethkankanala/) • ksvvineeth@gmail.com
-
-</div>
+MS in Computer Science (UNT, May 2026) | 1+ year @ Accenture | Open to Data Analyst roles
 
 ---
 
-<div align="center">
+## 🛠️ Data Analytics Stack
 
-> *Building intelligent systems that turn data into decisions — one algorithm at a time.*
-
-</div>
-
----
-
-## 🛠️ Tech Arsenal
-
-| Category      | Stack                                                          |
-| ------------- | -------------------------------------------------------------- |
-| **Languages** | Python, Java, SQL, JavaScript, C++                             |
-| **AI & ML**   | LLMs, RAG, ML Pipelines, Model Evaluation, Feature Engineering |
-| **Backend**   | FastAPI, Flask, Spring Boot, Node.js, Express, REST APIs       |
-| **Data**      | PostgreSQL, MySQL, SQL Analytics, Data Pipelines               |
-| **Cloud**     | AWS, Docker, Git, CI/CD, Containerization                      |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=sai-vineeth-kankanala&theme=github-compact&hide_border=true&area=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sai-vineeth-kankanala&theme=github-dark-blue&hide_border=true)
-
-</div>
+| Category | Tools & Technologies |
+|---|---|
+| **Languages** | Python, SQL, R, JavaScript |
+| **Analytics & BI** | Power BI, Tableau, Excel, Pandas, NumPy, Statistical Analysis |
+| **Data Engineering** | ETL Pipelines, PostgreSQL, MySQL, Data Warehousing, Data Quality |
+| **Machine Learning** | Scikit-learn, Regression, Classification, Feature Engineering, ROC-AUC |
+| **Cloud & Tools** | AWS, Azure Data Studio, Docker, Git, FastAPI, REST APIs, Jupyter Notebook |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 AI Micronutrient Deficiency Detection App
-> Python • FastAPI • ML Models • SQL • Docker • AWS
+### 📈 Financial Fraud Detection & Risk Analytics
+`Python` `SQL` `Scikit-learn` `Pandas` `NumPy` `Docker`
 
-An AI-powered health application that analyzes user inputs to detect micronutrient deficiencies and recommend actionable solutions.
+End-to-end data pipeline analyzing **50,000+ financial transactions** for fraud and risk patterns.
 
-**Impact:** End-to-end ML pipeline with sub-second inference latency and structured performance monitoring.
-
-**[→ View on GitHub](https://github.com/sai-vineeth-kankanala)**
+**Results:** 92% precision · 87% recall · **ROC-AUC 0.94** · Executive risk dashboard with real-time KPIs
 
 ---
 
-### 📚 RAG Document Intelligence System
-> Python • LLMs • RAG Pipeline • Vector DB • FastAPI • Docker
+### 🛒 Ecommerce Analytics & Business Intelligence Pipeline
+`Python` `SQL` `Data Pipelines` `Excel`
 
-A retrieval-augmented generation system that enables natural language queries over unstructured documents with cited, grounded responses.
+Automated data pipeline and SQL analytics layer over transactional ecommerce data.
 
-**Impact:** Reduced hallucinations through context-constrained responses with full source traceability.
-
-**[→ View on GitHub](https://github.com/sai-vineeth-kankanala)**
+**Results:** **40% query performance improvement** · Automated reporting · Customer behavior trend analysis
 
 ---
 
-### 🕵️ Fraud Detection ML Pipeline
-> Python • Pandas/NumPy • ML Models • SQL • FastAPI • Docker
+### 🤖 AI Document Intelligence System
+`Python` `NLP` `Deep Learning` `FastAPI` `AWS`
 
-An end-to-end machine learning pipeline for detecting fraudulent transactions and money laundering patterns across 50K+ transactions.
+Automated data quality pipeline using NLP and deep learning to validate document outputs.
 
-**Impact:** 92% precision, 87% recall, 0.94 ROC-AUC. Real-time scoring with automated alerting.
-
-**[→ View on GitHub](https://github.com/sai-vineeth-kankanala/money-laundering-detection)**
-
----
-
-### 🔌 EVRoute Optimizer
-> JavaScript • Leaflet.js • Dijkstra/A* • Graph Theory • OpenStreetMap
-
-An interactive, graph-theory-based routing engine that helps EV drivers find optimal charging stations using Dijkstra's and A* Search algorithms with real-time congestion modeling.
-
-**Impact:** Browser-based pathfinding with live congestion simulation and topology visualization.
-
-**[→ View on GitHub](https://github.com/sai-vineeth-kankanala/Optimizing-EV-Charging-Station-Usage-Using-Graph-Theory)**
-
----
-
-## 💼 Other Projects
-
-| Project                         | Tech Stack                   | Description                                 |
-| ------------------------------- | ---------------------------- | ------------------------------------------- |
-| **Chef Hiring System**          | REST APIs, Auth, Docker, AWS | Platform connecting restaurants with chefs  |
-| **Music Recommendation System** | Python, Flask, MySQL         | Personalized music backend with secure auth |
-| **Ecommerce Analytics**         | SQL, Python, JS              | Data pipelines with 40% performance gain    |
+**Results:** **40% error reduction** · 99.9% system uptime · Confidence scoring for downstream reporting
 
 ---
 
 ## 📌 Currently Working On
-
-- 🏗️ Building a production RAG system for document Q&A with citation tracking (FastAPI + ChromaDB + OpenAI)
-- 🧠 Developing LLM-powered pipelines for document understanding and structured extraction
-- 🔌 Designing backend microservices for high-concurrency ML inference environments
-- ⚡ Optimizing ML model serving for real-time performance at scale
-
----
+- 📊 Building interactive Power BI & Tableau dashboards for business intelligence use cases
+- 🔍 Exploring advanced SQL analytics — window functions, CTEs, and query optimization
+- 📈 Practicing A/B testing and hypothesis testing frameworks for product analytics
+- ☁️ Learning Snowflake and Databricks for cloud-based data warehousing
 
 ## 📖 Currently Learning
-
-- Advanced LLM Architectures & Fine-tuning (LoRA/QLoRA)
-- System Design & Distributed Systems for ML
-- Data Engineering with Apache Spark & Airflow
-- Production ML Deployment Patterns (BentoML, Ray Serve)
+- Advanced data modeling and data governance best practices
+- Google Analytics and web analytics for product data
+- Apache Spark for large-scale data processing
+- dbt (data build tool) for analytics engineering
 
 ---
 
 ## 📬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saivineethkankanala/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksvvineeth@gmail.com)
+Open to **Data Analyst**, **Business Analyst**, and **BI Analyst** roles.
+Reach me at [ksvvineeth@gmail.com](mailto:ksvvineeth@gmail.com) or [LinkedIn](https://linkedin.com/in/saivineethkankanala)
