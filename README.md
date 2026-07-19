@@ -1,6 +1,6 @@
 # 🚀 Sai Vineeth Kankanala — Software Engineer | AI & ML
 
-📍 Dallas, Texas, USA | [LinkedIn](https://linkedin.com/in/saivineethkankanala) | ksvvineeth@gmail.com
+📍 Dallas, Texas, USA | ksvvineeth@gmail.com
 
 > **Building intelligent systems — LLM applications, ML pipelines, and scalable backend services.**
 >
