@@ -39,4 +39,4 @@
 >
 > ---
 >
-> 📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/saivineethkankanala) | ksvvineeth@gmail.com
+> 📫 **Let's connect:** ksvvineeth@gmail.com
