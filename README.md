@@ -103,8 +103,6 @@ Currently seeking full-time opportunities in:
 
 📧 Email: **ksvvineeth@gmail.com**
 
-💼 LinkedIn: *(Add your LinkedIn URL)*
-
 🌐 GitHub: **https://github.com/sai-vineeth-kankanala**
 
 ---
